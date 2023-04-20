@@ -1,3 +1,3 @@
 # readpe
 
-pev has moved to github.com/mentebinaria/readpe and has a new maintainer. :)
+pev has moved to [@mentebinaria/readpe](https://github.com/mentebinaria/readpe) and has a new maintainer. :)
